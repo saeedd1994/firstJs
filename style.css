@@ -1,5 +1,13 @@
-#header {
+#header,
+.slider {
     padding: 1em;
     text-align: center;
+}
+
+#header {
     background-color: rgb(255, 194, 194);
+}
+
+.slider {
+    background-color: aquamarine;
 }
